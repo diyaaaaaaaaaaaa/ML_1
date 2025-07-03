@@ -60,6 +60,6 @@ else:
 st.markdown(
     """
     ---
-    Developed by Rafiya
+    Developed by diya
     """
 )
